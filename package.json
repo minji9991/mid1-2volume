@@ -1,0 +1,13 @@
+{
+  "name": "minji-volume-lab",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.mjs",
+    "test": "node tests/verify.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
